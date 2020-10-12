@@ -1,4 +1,6 @@
 # Guess-it
+Jogo de adivinhação usando gestos, como imagem em ação
+
 Aplicativo feito no  Android Studio
 
 Aplicando conceitos de arquitetura de aplicativo
